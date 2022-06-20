@@ -1,0 +1,7 @@
+1 climb_ladder
+2 fall_down
+3 smoke
+4 stand
+5 talk
+6 walk
+7 wear_helmet
