@@ -12,5 +12,7 @@ This repository is based on
 
 [m-bain/video-transformers](https://github.com/m-bain/video-transformers) --> (TimeSformer),
 
+[mx-mark/VideoTransformer-pytorch](https://github.com/mx-mark/VideoTransformer-pytorch) --> (ViViT),
+
 The code and dataset will be upload later...
 
