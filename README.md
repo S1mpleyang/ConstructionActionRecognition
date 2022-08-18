@@ -14,5 +14,7 @@ This repository is based on
 
 [mx-mark/VideoTransformer-pytorch](https://github.com/mx-mark/VideoTransformer-pytorch) --> (ViViT),
 
+[Video-Swin-Transformer](https://github.com/SwinTransformer/Video-Swin-Transformer) --> (Video Swin),
+
 The code and dataset will be upload later...
 
