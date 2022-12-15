@@ -17,9 +17,19 @@ This repository is based on
 
 # Code
 
-The code will be upload later...
+## step1
+Create virtual environment
+```
+conda create env -n STRT python=3.6
 
-pretrain-weight in [Baidu disk](https://pan.baidu.com/s/15qpLsPcBtyY4oc7Mzg_4LQ)
+## step2 
+Download pretrain-weight from [Baidu disk](https://pan.baidu.com/s/15qpLsPcBtyY4oc7Mzg_4LQ)
+
+## step3
+```
+python run_ours
+or
+
 
 # Dataset
 
