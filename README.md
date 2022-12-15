@@ -21,5 +21,5 @@ The code will be upload later...
 
 # Dataset
 
-The Construction Meta Action (CMA) Dataset is built only for rearch, if you are interested in this dataset, please contact yangmeng@siat.ac and zl.yang@siat.cn
+The Construction Meta Action (CMA) Dataset is built only for rearch, if you are interested in this dataset, please contact yangmeng@siat.ac.cn and zl.yang@siat.ac.cn
 
