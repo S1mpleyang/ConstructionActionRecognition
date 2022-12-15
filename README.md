@@ -1,6 +1,6 @@
 # ConstructionActionRecognition
 
-This is repository for the "A novel Transformer based deep learning model and video dataset for unsafe action identification in construction projects".
+This is repository for the "Transformer-based deep learning model and video dataset for unsafe action identification in construction projects".
 
 This repository is based on 
 
