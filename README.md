@@ -19,7 +19,7 @@ This repository is based on
 
 The code will be upload later...
 
-pretrain-weight:(链接: https://pan.baidu.com/s/15qpLsPcBtyY4oc7Mzg_4LQ 提取码: s6xh 复制这段内容后打开百度网盘手机App，操作更方便哦)
+pretrain-weight in [Baidu disk](https://pan.baidu.com/s/15qpLsPcBtyY4oc7Mzg_4LQ)
 
 # Dataset
 
