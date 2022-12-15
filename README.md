@@ -6,7 +6,7 @@ This repository is based on
 
 [kenshohara/3D-ResNets-PyTorch](https://github.com/kenshohara/3D-ResNets-PyTorch.git) --> (R3D, R2+1D), 
 
-[rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models.git) --> (ViT),
+[rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models.git) --> (ViT, SwinT),
 
 [mmaction2](https://github.com/open-mmlab/mmaction2.git) --> (SlowFast, TSN, TSM),
 
