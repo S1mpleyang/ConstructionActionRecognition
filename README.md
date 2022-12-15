@@ -20,16 +20,20 @@ This repository is based on
 ## step1
 Create virtual environment
 ```
-conda create env -n STRT python=3.6
+conda create -n STRT python=3.6
+conda activate STRT
+pip install
+```
 
 ## step2 
 Download pretrain-weight from [Baidu disk](https://pan.baidu.com/s/15qpLsPcBtyY4oc7Mzg_4LQ)
 
 ## step3
 ```
-python run_ours
+python run_ours.py
 or
-
+python evaluate.py --result_path $result --sub_path STR_Transformer_DTM --model STR_Transformer --at_type DTM --n_classes 7 --resume_path $pretrain-weight --num_frames 8 --sample_size 224 --dataset myaction --batch_size 1 --n_threads 4 --seg_method tsn
+```
 
 # Dataset
 
