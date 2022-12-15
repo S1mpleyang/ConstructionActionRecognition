@@ -27,6 +27,7 @@ pip install -r requirements.txt
 
 ## step2 
 Download pretrain-weight from [Baidu disk](https://pan.baidu.com/s/15qpLsPcBtyY4oc7Mzg_4LQ)
+
 Download dataset or you own dataset. Then modify the configuration.py to make sure the path to your dataset is correct.
 
 ## step3
