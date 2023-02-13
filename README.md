@@ -46,8 +46,7 @@ dataset
 
 The classInd.txt save the class name and its ID, like this:
 ```
-ID class_name
-0  class_name_0
+0  class_name_0 # ID class_name
 1  class_name_1
 ...
 
@@ -55,8 +54,7 @@ ID class_name
 
 train.txt and test.txt save the video path for training and testing, like this:
 ```
-path ID
-class_name_0/video_0 0
+class_name_0/video_0 0  # path ID
 class_name_0/video_1 0
 ...
 ```
