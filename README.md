@@ -1,6 +1,6 @@
 # ConstructionActionRecognition
 
-This is repository for the "Transformer-based deep learning model and video dataset for unsafe action identification in construction projects".
+This is repository for the ["Transformer-based deep learning model and video dataset for unsafe action identification in construction projects"](https://www.sciencedirect.com/science/article/pii/S0926580522005738).
 
 This repository is based on 
 
@@ -14,6 +14,7 @@ This repository is based on
 
 [mx-mark/VideoTransformer-pytorch](https://github.com/mx-mark/VideoTransformer-pytorch) --> (ViViT),
 
+Thanks for these researchers!
 
 
 # Step1
@@ -62,7 +63,7 @@ class_name_0/video_1 0
 
 ##  Construction Meta Action (CMA) Dataset
 Or you can use the Construction Meta Action (CMA) Dataset. CMA dataset defines seven construction worker actions, including 1595 video clips, 
-please read our paper ["Transformer-based deep learning model and video dataset for unsafe action identification in construction projects"](https://www.sciencedirect.com/science/article/pii/S0926580522005738) for more details.
+please read our paper for more details.
 
 If you are interested in this dataset, please contact yangmeng@siat.ac.cn and zl.yang@siat.ac.cn.
 Note that the Construction Meta Action (CMA) is built only for research,please do not share it with anyone or use it for commercial purposes.
