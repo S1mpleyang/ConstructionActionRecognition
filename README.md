@@ -33,16 +33,36 @@ You can build your dataset like this:
 ```
 dataset
 -annotations
+--classInd.txt
 -myaction
---class1
----video1
----video2
---class2
+--class_name_0
+---video_0
+---video_1
+--class_name_1
 ...
 
 -train.txt
 -test.txt
 ```
+
+The classInd.txt save the class name and its ID, like this:
+```
+ID class_name
+0  class_name_0
+1  class_name_1
+...
+
+```
+
+train.txt and test.txt save the video path for training and testing, like this:
+```
+path ID
+class_name_0/video_0 0
+class_name_0/video_1 0
+...
+```
+
+
 Or you can use the Construction Meta Action (CMA) Dataset.
 If you are interested in this dataset, please contact yangmeng@siat.ac.cn and zl.yang@siat.ac.cn.
 Note that the Construction Meta Action (CMA) is built only for research,please do not share it with anyone or use it for commercial purposes.
