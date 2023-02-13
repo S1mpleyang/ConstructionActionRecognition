@@ -16,7 +16,7 @@ This repository is based on
 
 
 
-# Step1:create virtual environment
+# Step1
 Create virtual environment
 ```
 conda create -n STRT python=3.6
