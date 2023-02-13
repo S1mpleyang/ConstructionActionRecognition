@@ -87,6 +87,23 @@ python test_script.py
 ```
 The pretrain-weight can be downloaded from [Baidu disk](https://pan.baidu.com/s/15qpLsPcBtyY4oc7Mzg_4LQ)
 
+# Citation
+If you find our work is helpful, please cite our paper.
+```
+@article{YANG2023104703,
+title = {Transformer-based deep learning model and video dataset for unsafe action identification in construction projects},
+journal = {Automation in Construction},
+volume = {146},
+pages = {104703},
+year = {2023},
+issn = {0926-5805},
+doi = {https://doi.org/10.1016/j.autcon.2022.104703},
+url = {https://www.sciencedirect.com/science/article/pii/S0926580522005738},
+author = {Meng Yang and Chengke Wu and Yuanjun Guo and Rui Jiang and Feixiang Zhou and Jianlin Zhang and Zhile Yang},
+keywords = {Action recognition, Construction safety, Transformer, Deep learning},
+}
+```
+
 # Contact
 Any question please contact yangmeng@siat.ac.cn and zl.yang@siat.ac.cn
 
