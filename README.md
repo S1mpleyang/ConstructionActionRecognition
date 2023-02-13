@@ -29,21 +29,33 @@ pip install -r requirements.txt
 Download pretrain-weight from [Baidu disk](https://pan.baidu.com/s/15qpLsPcBtyY4oc7Mzg_4LQ)
 
 ## Dataset
-The Construction Meta Action (CMA) Dataset is built only for research, 
-if you are interested in this dataset, please contact yangmeng@siat.ac.cn and zl.yang@siat.ac.cn.
+You can build your dataset like this:
+```
+dataset
+-annotations
+-myaction
+--class1
+---video1
+---video2
+--class2
+...
 
-Download dataset then modify the configuration.py to make sure the path to your dataset is correct.
+-train.txt
+-test.txt
+```
+Or you can use the Construction Meta Action (CMA) Dataset.
+If you are interested in this dataset, please contact yangmeng@siat.ac.cn and zl.yang@siat.ac.cn.
+Note that the Construction Meta Action (CMA) is built only for research,please do not share it with anyone or use it for commercial purposes.
+
+Then modify the configuration.py to make sure the path to your dataset is correct.
 
 # step3
-## For training
-
-Run the script below:
+For training, run the script below:
 ```
 python train.py
 ```
 
-## For testing
-Run the script below:
+For testing, run the script below:
 ```
 python test_script.py
 ```
