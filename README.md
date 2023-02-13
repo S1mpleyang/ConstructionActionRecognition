@@ -15,9 +15,8 @@ This repository is based on
 [mx-mark/VideoTransformer-pytorch](https://github.com/mx-mark/VideoTransformer-pytorch) --> (ViViT),
 
 
-# Code
 
-## step1
+# Step1:create virtual environment
 Create virtual environment
 ```
 conda create -n STRT python=3.6
@@ -25,27 +24,30 @@ conda activate STRT
 pip install -r requirements.txt
 ```
 
-## step2 
+# Step2 
+## Pretained weight
 Download pretrain-weight from [Baidu disk](https://pan.baidu.com/s/15qpLsPcBtyY4oc7Mzg_4LQ)
+
+## Dataset
+The Construction Meta Action (CMA) Dataset is built only for research, 
+if you are interested in this dataset, please contact yangmeng@siat.ac.cn and zl.yang@siat.ac.cn.
 
 Download dataset then modify the configuration.py to make sure the path to your dataset is correct.
 
-## step3
-### For training
+# step3
+## For training
 
 Run the script below:
 ```
 python train.py
 ```
 
-### For testing
+## For testing
 Run the script below:
 ```
 python test_script.py
 ```
 
-
-# Dataset
-
-The Construction Meta Action (CMA) Dataset is built only for research, if you are interested in this dataset, please contact yangmeng@siat.ac.cn and zl.yang@siat.ac.cn
+# Contact
+Any question please contact yangmeng@siat.ac.cn and zl.yang@siat.ac.cn
 
