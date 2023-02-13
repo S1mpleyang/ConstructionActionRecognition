@@ -68,6 +68,13 @@ If you are interested in this dataset, please contact yangmeng@siat.ac.cn and zl
 Note that the Construction Meta Action (CMA) is built only for research,please do not share it with anyone or use it for commercial purposes.
 
 Then modify the configuration.py to make sure the path to your dataset is correct.
+```
+cfg.data_folder =   # location to $myaction$
+cfg.train_split =   # location to train split
+cfg.test_split =    # location to test split
+cfg.dataset_path =  # location to $dataset$
+cfg.num_classes =   # number of classes
+```
 
 # step3
 For training, run the script below:
