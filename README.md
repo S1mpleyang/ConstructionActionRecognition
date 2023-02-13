@@ -31,12 +31,19 @@ Download pretrain-weight from [Baidu disk](https://pan.baidu.com/s/15qpLsPcBtyY4
 Download dataset then modify the configuration.py to make sure the path to your dataset is correct.
 
 ## step3
+### For training
+
 Run the script below:
 ```
-python run_script.py
-or
-python evaluate.py --result_path $result --sub_path STR_Transformer_DTM --model STR_Transformer --at_type DTM --n_classes 7 --resume_path $pretrain-weight --num_frames 8 --sample_size 224 --dataset myaction --batch_size 1 --n_threads 4 --seg_method tsn
+python train.py
 ```
+
+### For testing
+Run the script below:
+```
+python test_script.py
+```
+
 
 # Dataset
 
