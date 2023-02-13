@@ -63,7 +63,7 @@ class_name_0/video_1 0
 Or you can use the Construction Meta Action (CMA) Dataset. CMA dataset defines seven construction worker actions, including 1595 video clips, 
 please read our paper for more details.
 
-If you are interested in this dataset, please contact yangmeng@siat.ac.cn and zl.yang@siat.ac.cn.
+If you are interested in this dataset, please send email to yangmeng@siat.ac.cn and Cc to zl.yang@siat.ac.cn with your institution email.
 Note that the Construction Meta Action (CMA) is built only for research,please do not share it with anyone or use it for commercial purposes.
 
 ## modify the path to the dataset
@@ -86,7 +86,7 @@ For testing, run the script below:
 ```
 python test_script.py
 ```
-The pretrain-weight can be downloaded from [Baidu disk](https://pan.baidu.com/s/15qpLsPcBtyY4oc7Mzg_4LQ)
+The pretrain-weight can be downloaded from [Google disk](https://drive.google.com/file/d/1z5nWkpQxLxXOQn-5K4eQ9riOBWqm-xkz/view?usp=share_link)
 
 # Citation
 If you find our work is helpful, please cite our paper.
