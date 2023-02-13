@@ -25,10 +25,8 @@ pip install -r requirements.txt
 ```
 
 # Step2 
-## Pretained weight
-Download pretrain-weight from [Baidu disk](https://pan.baidu.com/s/15qpLsPcBtyY4oc7Mzg_4LQ)
 
-## Dataset
+## Build your own Dataset
 You can build your dataset like this:
 ```
 dataset
@@ -62,11 +60,12 @@ class_name_0/video_1 0
 ...
 ```
 
-
+##  Construction Meta Action (CMA) Dataset
 Or you can use the Construction Meta Action (CMA) Dataset.
 If you are interested in this dataset, please contact yangmeng@siat.ac.cn and zl.yang@siat.ac.cn.
 Note that the Construction Meta Action (CMA) is built only for research,please do not share it with anyone or use it for commercial purposes.
 
+## modify the path to the dataset
 Then modify the configuration.py to make sure the path to your dataset is correct.
 ```
 cfg.data_folder =   # location to $myaction$
@@ -86,6 +85,7 @@ For testing, run the script below:
 ```
 python test_script.py
 ```
+The pretrain-weight can be downloaded from [Baidu disk](https://pan.baidu.com/s/15qpLsPcBtyY4oc7Mzg_4LQ)
 
 # Contact
 Any question please contact yangmeng@siat.ac.cn and zl.yang@siat.ac.cn
