@@ -31,17 +31,17 @@ pip install -r requirements.txt
 You can build your dataset like this:
 ```
 dataset
--annotations
---classInd.txt
--myaction
---class_name_0
----video_0
----video_1
---class_name_1
+|-annotations
+|    |-classInd.txt
+|-myaction
+|    |--class_name_0
+|    |    |---video_0
+|    |    |---video_1
+|    |--class_name_1
 ...
 
--train.txt
--test.txt
+|-train.txt
+|-test.txt
 ```
 
 The classInd.txt save the class name and its ID, like this:
