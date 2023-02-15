@@ -89,7 +89,7 @@ python test_script.py
 The pretrain-weight can be downloaded from [Google disk](https://drive.google.com/file/d/1z5nWkpQxLxXOQn-5K4eQ9riOBWqm-xkz/view?usp=share_link)
 
 # Citation
-If you find our work is helpful, please cite our paper.
+If you find our work is helpful, please give us a star so that more people can find our Projects. If you use our dataset or code in your work, please cite our paper as below.
 ```
 @article{YANG2023104703,
 title = {Transformer-based deep learning model and video dataset for unsafe action identification in construction projects},
