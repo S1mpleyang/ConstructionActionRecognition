@@ -79,7 +79,7 @@ cfg.num_classes =   # number of classes
 # step3
 For training, run the script below:
 ```
-python train.py
+python train_script.py
 ```
 
 For testing, run the script below:
