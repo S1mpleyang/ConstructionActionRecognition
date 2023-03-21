@@ -33,3 +33,13 @@ e.g. [[8.497159 , -3.47669744, -2.80618858, -7.54730511, -7.54730511, -0.4597976
 Modify the path to your file in roc_plot.py and run it
 
 # Loss Curve
+
+Generate a file train_STR_Transformer.log
+
+- epoch	loss
+- 1	0.17163007370288969
+
+- 2	0.02682878160196694
+
+Modify the path to your file in loss_curve.py and run it
+
