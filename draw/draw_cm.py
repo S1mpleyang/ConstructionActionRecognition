@@ -1,24 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-
-# colors = ["red", "black", "yellow", "purple", "orange"]
-# labels = ["SwimTransformer+SA", "SwimTransformer+RA", "SwimTransformer+BTM", "SwimTransformer+R2p1d",
-#           "SwimTransformer+R2p1d+BTM"]
-# shape = ["o", "v", "+", "d", "x"]
-# x = np.arange(0, len(colors))
-# y_8 = [80.1, 85.3, 86.2, 86.2, 88.7]
-# y_16 = [83.1, 85.2, 83.5, 86.2, 86.6]
-#
-# plt.figure()
-# plt.plot(x, y_8, color="blue", label="8frame")
-# plt.scatter(x, y_8, c=colors)
-#
-# plt.plot(x, y_16, color="blue", linestyle="--",  label="16frame")
-# plt.scatter(x, y_16, c=colors)
-# plt.legend()
-# plt.show()
-
 # 绘制混淆矩阵
 def plot_confusion_matrix(cm, classes, normalize=False, title='混淆矩阵', cmap=plt.cm.Oranges):
     """
@@ -65,7 +47,7 @@ def plot_confusion_matrix(cm, classes, normalize=False, title='混淆矩阵', cm
 from pylab import *
 mpl.rcParams['font.sans-serif'] = ["SimHei"]
 
-path = "baseline0604" # "STR-Transformer"
+path = "STR-Transformer"  # path to your file
 with open(path, 'r') as f:
     data = f.readlines()
 
