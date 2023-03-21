@@ -76,13 +76,24 @@ def plot_roc(
 ##ours
 plot_roc(
     model_name="STR-Transformer",
-    label=r"D:\yangmeng_workspace\STR-Transformer\exp_0808\STR-Trans\eval\STR_Transformer_distance_attention_224_8_0808\STR_Transformer_label.pth",
-    predict=r"D:\yangmeng_workspace\STR-Transformer\exp_0808\STR-Trans\eval\STR_Transformer_distance_attention_224_8_0808\STR_Transformer_tensor.pth",
-    # label=r"D:\yangmeng_workspace\STR-Transformer\0829\eval\STR_Transformer_distance_attention_224_8_0829\STR_Transformer_label.pth",
-    # predict=r"D:\yangmeng_workspace\STR-Transformer\0829\eval\STR_Transformer_distance_attention_224_8_0829\STR_Transformer_tensor.pth",
+    label=r"STR_Transformer_label.pth",
+    predict=r"STR_Transformer_tensor.pth",
     color="k",
     linestyle="--"
 )
+
+"""
+STR_Transformer_label.pth 
+-size [540,7]
+-one-hot code of true label
+[1., 0., 0.,  ..., 0., 0., 0.]
+
+STR_Transformer_tensor.pth
+-size [540,7]
+-real prediction score
+[ 8.497159  , -3.47669744, -2.80618858, ..., -7.54730511, -0.45979768, -3.15947509]
+"""
+
 
 
 """end"""
