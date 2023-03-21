@@ -11,9 +11,16 @@ Modify the path to your file (STR-Transformer.txt) in draw_cm.py and run it
 
 
 # ROC Curve
-Create virtual environment
-```
-conda create -n STRT python=3.6
-conda activate STRT
-pip install -r requirements.txt
-``` 
+
+Generate two file 
+(1) STR_Transformer_label.pth 
+-size [540,7]
+-one-hot code of true label
+e.g. [[1., 0., 0.,  0, 0., 0., 0.]]
+
+(2)STR_Transformer_tensor.pth
+-size [540,7]
+-one-hot code of true label
+e.g. [[8.497159 , -3.47669744, -2.80618858, -7.54730511, -7.54730511, -0.45979768, -3.15947509]]
+
+Modify the path to your file in roc_plot.py and run it
