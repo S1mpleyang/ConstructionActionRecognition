@@ -2,19 +2,6 @@
 
 This is repository for the ["Transformer-based deep learning model and video dataset for unsafe action identification in construction projects"](https://www.sciencedirect.com/science/article/pii/S0926580522005738).
 
-This repository is based on 
-
-[kenshohara/3D-ResNets-PyTorch](https://github.com/kenshohara/3D-ResNets-PyTorch.git) --> (R3D, R2+1D), 
-
-[rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models.git) --> (ViT, SwinT),
-
-[mmaction2](https://github.com/open-mmlab/mmaction2.git) --> (SlowFast, TSN, TSM),
-
-[m-bain/video-transformers](https://github.com/m-bain/video-transformers) --> (TimeSformer),
-
-[mx-mark/VideoTransformer-pytorch](https://github.com/mx-mark/VideoTransformer-pytorch) --> (ViViT),
-
-Thanks for these researchers!
 
 
 # Step1
@@ -66,7 +53,7 @@ please read our paper for more details.
 If you are interested in this dataset, please send email to yangmeng@siat.ac.cn and Cc to zl.yang@siat.ac.cn with your institution email.
 Note that the Construction Meta Action (CMA) is built only for research,please do not share it with anyone or use it for commercial purposes.
 
-## modify the path to the dataset
+## Modify the path to the dataset
 Then modify the configuration.py to make sure the path to your dataset is correct.
 ```
 cfg.data_folder =   # location to $myaction$
@@ -76,7 +63,7 @@ cfg.dataset_path =  # location to $dataset$
 cfg.num_classes =   # number of classes
 ```
 
-# step3
+# Step3
 For training, run the script below:
 ```
 python train_script.py
@@ -104,6 +91,21 @@ author = {Meng Yang and Chengke Wu and Yuanjun Guo and Rui Jiang and Feixiang Zh
 keywords = {Action recognition, Construction safety, Transformer, Deep learning},
 }
 ```
+
+# Acknowledgement
+This repository is based on 
+
+[kenshohara/3D-ResNets-PyTorch](https://github.com/kenshohara/3D-ResNets-PyTorch.git) --> (R3D, R2+1D), 
+
+[rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models.git) --> (ViT, SwinT),
+
+[mmaction2](https://github.com/open-mmlab/mmaction2.git) --> (SlowFast, TSN, TSM),
+
+[m-bain/video-transformers](https://github.com/m-bain/video-transformers) --> (TimeSformer),
+
+[mx-mark/VideoTransformer-pytorch](https://github.com/mx-mark/VideoTransformer-pytorch) --> (ViViT),
+
+Thanks for these researchers!
 
 # Contact
 Any question please contact yangmeng@siat.ac.cn
