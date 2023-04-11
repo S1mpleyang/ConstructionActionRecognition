@@ -2,6 +2,7 @@
 
 This is repository for the ["Transformer-based deep learning model and video dataset for unsafe action identification in construction projects"](https://www.sciencedirect.com/science/article/pii/S0926580522005738).
 
+This work apply computer vision technology into construction industry for understanding the various actions of workers.
 
 
 # Step1
@@ -108,5 +109,5 @@ This repository is based on
 Thanks for these researchers!
 
 # Contact
-Any question please contact yangmeng@siat.ac.cn
+Any question please contact yangmeng@siat.ac.cn.
 
