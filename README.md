@@ -4,7 +4,7 @@ This is repository for the ["Transformer-based deep learning model and video dat
 
 This work apply computer vision technology into construction industry for understanding the various actions of workers. In this work, we propose a dataset about actions of construction workers as well as a new designed model.
 
-Hope this work.
+With these codes, you can reapper the results in our paper, or you can design your own model and train/test it through our codes. 
 
 
 # Step1
