@@ -55,6 +55,8 @@ please read our paper for more details.
 If you are interested in this dataset, please send email to zl.yang@siat.ac.cn and Cc to ck.wu@siat.ac.cn, yangmeng@siat.ac.cn with your institution email.
 Note that the Construction Meta Action (CMA) is built only for research,please do not share it with anyone or use it for commercial purposes.
 
+Please leave us a star and cite our paper in your work.
+
 ## Modify the path to the dataset
 Then modify the configuration.py to make sure the path to your dataset is correct.
 ```
