@@ -77,6 +77,12 @@ python test_script.py
 ```
 The pretrain-weight can be downloaded from [Google disk](https://drive.google.com/file/d/1z5nWkpQxLxXOQn-5K4eQ9riOBWqm-xkz/view?usp=share_link)
 
+
+
+# update
+
+Our new work ["A teacher–student deep learning strategy for extreme low resolution unsafe action recognition in construction projects"](https://www.sciencedirect.com/science/article/abs/pii/S1474034623004226) is pubilshed in Advanced Engineering Informatics. We focus on extramely low resolution action recognition task in construction site using low-resolution CMA dataset. You can gain more details in the publish paper.
+
 # Citation
 If you find our work is helpful, please leave us a star and cite our paper below.
 ```
@@ -91,6 +97,19 @@ doi = {https://doi.org/10.1016/j.autcon.2022.104703},
 url = {https://www.sciencedirect.com/science/article/pii/S0926580522005738},
 author = {Meng Yang and Chengke Wu and Yuanjun Guo and Rui Jiang and Feixiang Zhou and Jianlin Zhang and Zhile Yang},
 keywords = {Action recognition, Construction safety, Transformer, Deep learning},
+}
+
+@article{YANG2024102294,
+title = {A teacher–student deep learning strategy for extreme low resolution unsafe action recognition in construction projects},
+journal = {Advanced Engineering Informatics},
+volume = {59},
+pages = {102294},
+year = {2024},
+issn = {1474-0346},
+doi = {https://doi.org/10.1016/j.aei.2023.102294},
+url = {https://www.sciencedirect.com/science/article/pii/S1474034623004226},
+author = {Meng Yang and Chengke Wu and Yuanjun Guo and Yong He and Rui Jiang and Junjie Jiang and Zhile Yang},
+keywords = {Construction safety, Low resolution, Action recognition, Knowledge distillation},
 }
 ```
 
@@ -108,11 +127,6 @@ This repository is based on
 [mx-mark/VideoTransformer-pytorch](https://github.com/mx-mark/VideoTransformer-pytorch) --> (ViViT),
 
 Thanks for these researchers!
-
-# update
-
-Our new work ["A teacher–student deep learning strategy for extreme low resolution unsafe action recognition in construction projects"](https://www.sciencedirect.com/science/article/abs/pii/S1474034623004226) is pubilshed in Advanced Engineering Informatics. We focus on extramely low resolution action recognition task in construction site using low-resolution CMA dataset. You can gain more details in the publish paper.
-
 
 # Contact
 Any question please contact yangmengjlu@gmail.com.
