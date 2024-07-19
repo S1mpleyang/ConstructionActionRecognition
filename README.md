@@ -81,7 +81,7 @@ The pretrain-weight can be downloaded from [Google disk](https://drive.google.co
 
 # update
 
-Our new work ["A teacher–student deep learning strategy for extreme low resolution unsafe action recognition in construction projects"](https://www.sciencedirect.com/science/article/abs/pii/S1474034623004226) is pubilshed in Advanced Engineering Informatics. We focus on extramely low resolution action recognition task in construction site using low-resolution CMA dataset. You can gain more details in the publish paper.
+Our new work ["A teacher–student deep learning strategy for extreme low resolution unsafe action recognition in construction projects"](https://www.sciencedirect.com/science/article/abs/pii/S1474034623004226) is pubilshed in Advanced Engineering Informatics. We focus on extramely low resolution (28pixels x 28pixel) action recognition task in construction site using extramely low-resolution CMA dataset. You can gain more details in the publish paper.
 
 # Citation
 If you find our work is helpful, please leave us a star and cite our paper below.
