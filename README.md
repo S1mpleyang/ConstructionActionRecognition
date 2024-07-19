@@ -1,6 +1,6 @@
 # ConstructionActionRecognition
 
-This is repository for the ["Transformer-based deep learning model and video dataset for unsafe action identification in construction projects"](https://www.sciencedirect.com/science/article/pii/S0926580522005738).
+This is repository for the ["Transformer-based deep learning model and video dataset for unsafe action identification in construction projects"] (https://www.sciencedirect.com/science/article/pii/S0926580522005738) published in Automation in Construction.
 
 This work apply computer vision technology into construction industry for understanding the various actions of workers. In this work, we propose a dataset about actions of construction workers as well as a new designed model.
 
