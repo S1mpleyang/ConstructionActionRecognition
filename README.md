@@ -98,7 +98,7 @@ The ROC/AUC curve is shown below:
 
 ![image](https://github.com/S1mpleyang/ConstructionActionRecognition/blob/main/img/ROC.png)
 
-Find more detail in "draw" directory
+Find more detail in **"draw"** directory
 
 
 
