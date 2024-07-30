@@ -59,7 +59,7 @@ The number of video clips, duration time of each clip are shown below:
 ![image](https://github.com/S1mpleyang/ConstructionActionRecognition/blob/main/img/numofclip.png)
 
 ## Modify the path to the dataset
-Then modify the configuration.py to make sure the path to your dataset is correct.
+Then modify the **configuration.py** to make sure the path to your dataset is correct.
 ```
 cfg.data_folder =   # location to $myaction$
 cfg.train_split =   # location to train split
@@ -73,7 +73,7 @@ cfg.num_classes =   # number of classes
 ## Change the backbone model
 if you want to apply our training method to train another model (e.g. Resnet, private model)
 
-You should modify line 371 in main.py to your own model
+You should modify line 371 in **main.py** to your own model
 ```
  /# set model here
 model = # your own model
