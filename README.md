@@ -78,6 +78,15 @@ python test_script.py
 The pretrain-weight can be downloaded from [Google disk](https://drive.google.com/file/d/1z5nWkpQxLxXOQn-5K4eQ9riOBWqm-xkz/view?usp=share_link)
 
 
+# How to change the backbone model
+if you want to apply our training method to train another model (e.g. Resnet, private model)
+You should modify line 371 in main.py to your own model
+'''
+ /# set model here
+model = # your own model
+model = model.to(opt.device)
+'''
+
 
 # update
 
