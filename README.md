@@ -68,6 +68,19 @@ cfg.dataset_path =  # location to $dataset$
 cfg.num_classes =   # number of classes
 ```
 
+
+
+## Change the backbone model
+if you want to apply our training method to train another model (e.g. Resnet, private model)
+
+You should modify line 371 in main.py to your own model
+```
+ /# set model here
+model = # your own model
+model = model.to(opt.device)
+```
+
+
 # Step3
 For training, run the script below:
 ```
@@ -88,16 +101,6 @@ The ROC/AUC curve is shown below:
 Find more detail in "draw" directory
 
 
-
-# How to change the backbone model
-if you want to apply our training method to train another model (e.g. Resnet, private model)
-
-You should modify line 371 in main.py to your own model
-```
- /# set model here
-model = # your own model
-model = model.to(opt.device)
-```
 
 
 # update
