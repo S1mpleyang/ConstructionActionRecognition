@@ -55,6 +55,9 @@ please read our paper for more details.
 If you are interested in this dataset, please leave this repository a star and send email to zl.yang@siat.ac.cn and Cc to ck.wu@siat.ac.cn, yangmengjlu@gmail.com with your institution email.
 Note that the Construction Meta Action (CMA) is built only for research,please do not share it with anyone or use it for commercial purposes.
 
+The number of video clips, duration time of each clip are shown below:
+![image](https://github.com/S1mpleyang/ConstructionActionRecognition/blob/main/img/numofclip.png)
+
 ## Modify the path to the dataset
 Then modify the configuration.py to make sure the path to your dataset is correct.
 ```
@@ -79,7 +82,7 @@ The pretrain-weight can be downloaded from [Google disk](https://drive.google.co
 
 # Evaluation Results
 
-![image](https://github.com/S1mpleyang/ConstructionActionRecognition/blob/main/img/numofclip.png)
+
 
 # How to change the backbone model
 if you want to apply our training method to train another model (e.g. Resnet, private model)
