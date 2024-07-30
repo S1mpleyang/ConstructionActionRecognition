@@ -80,6 +80,7 @@ The pretrain-weight can be downloaded from [Google disk](https://drive.google.co
 
 # How to change the backbone model
 if you want to apply our training method to train another model (e.g. Resnet, private model)
+
 You should modify line 371 in main.py to your own model
 ```
  /# set model here
