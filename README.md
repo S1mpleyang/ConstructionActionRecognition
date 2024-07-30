@@ -81,6 +81,10 @@ python test_script.py
 The pretrain-weight can be downloaded from [Google disk](https://drive.google.com/file/d/1z5nWkpQxLxXOQn-5K4eQ9riOBWqm-xkz/view?usp=share_link)
 
 # Evaluation Results
+The ROC/AUC curve is shown below:
+![image](https://github.com/S1mpleyang/ConstructionActionRecognition/blob/main/img/ROC.png)
+
+Find more detail in "draw" directory
 
 
 
