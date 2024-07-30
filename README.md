@@ -7,9 +7,9 @@ This work apply computer vision technology into construction industry for unders
 With these codes, you can reapper the results in our paper, or you can design your own model and train/test it through our codes. 
 
 
-# update
+## update
 
-Our new work ["A teacher–student deep learning strategy for extreme low resolution unsafe action recognition in construction projects"](https://www.sciencedirect.com/science/article/abs/pii/S1474034623004226) is pubilshed in Advanced Engineering Informatics. We focus on extramely low resolution (28pixels x 28pixel) action recognition task in construction site using extramely low-resolution CMA dataset. You can gain more details in the publish paper.
+Our new work ["A teacher–student deep learning strategy for extreme low resolution unsafe action recognition in construction projects"](https://www.sciencedirect.com/science/article/abs/pii/S1474034623004226) is pubilshed in Advanced Engineering Informatics. We focus on extramely low resolution (28 pixels * 28 pixels) action recognition task in construction site using extramely low-resolution CMA dataset. You can gain more details in the publish paper.
 
 
 # Step1
