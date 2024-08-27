@@ -1,6 +1,6 @@
 # ConstructionActionRecognition
 
-This is repository for the ["Transformer-based deep learning model and video dataset for unsafe action identification in construction projects"](https://www.sciencedirect.com/science/article/pii/S0926580522005738) published in Automation in Construction.
+This is repository for the ["Transformer-based deep learning model and video dataset for unsafe action identification in construction projects"](https://www.sciencedirect.com/science/article/pii/S0926580522005738) published in Automation in Construction (JCR Q1, IF=9.6).
 
 This work apply computer vision technology into construction industry for understanding the various actions of workers. In this work, we propose a dataset about actions of construction workers as well as a new designed model.
 
@@ -9,7 +9,7 @@ With these codes, you can reapper the results in our paper, or you can design yo
 
 ## update
 
-Our new work ["A teacher–student deep learning strategy for extreme low resolution unsafe action recognition in construction projects"](https://www.sciencedirect.com/science/article/abs/pii/S1474034623004226) is pubilshed in Advanced Engineering Informatics. We focus on extramely low resolution (28 pixels * 28 pixels) action recognition task in construction site using extramely low-resolution CMA dataset. You can gain more details in the publish paper.
+Our new work ["A teacher–student deep learning strategy for extreme low resolution unsafe action recognition in construction projects"](https://www.sciencedirect.com/science/article/abs/pii/S1474034623004226) is pubilshed in Advanced Engineering Informatics (JCR Q1, IF=8.0). We focus on extramely low resolution (28 pixels * 28 pixels) action recognition task in construction site using extramely low-resolution CMA dataset. You can gain more details in the publish paper.
 
 
 # Step1
