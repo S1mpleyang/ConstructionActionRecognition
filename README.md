@@ -11,6 +11,35 @@ With these codes, you can reapper the results in our paper, or you can design yo
 
 Our new work ["A teacher–student deep learning strategy for extreme low resolution unsafe action recognition in construction projects"](https://www.sciencedirect.com/science/article/abs/pii/S1474034623004226) is pubilshed in Advanced Engineering Informatics (JCR Q1, IF=8.0). We focus on extramely low resolution (28 pixels * 28 pixels) action recognition task in construction site using extramely low-resolution CMA dataset. You can gain more details in the publish paper.
 
+## citation 
+If you find our work is helpful, please leave us a star and cite our paper below.
+```
+@article{YANG2023104703,
+title = {Transformer-based deep learning model and video dataset for unsafe action identification in construction projects},
+journal = {Automation in Construction},
+volume = {146},
+pages = {104703},
+year = {2023},
+issn = {0926-5805},
+doi = {https://doi.org/10.1016/j.autcon.2022.104703},
+url = {https://www.sciencedirect.com/science/article/pii/S0926580522005738},
+author = {Meng Yang and Chengke Wu and Yuanjun Guo and Rui Jiang and Feixiang Zhou and Jianlin Zhang and Zhile Yang},
+keywords = {Action recognition, Construction safety, Transformer, Deep learning},
+}
+
+@article{YANG2024102294,
+title = {A teacher–student deep learning strategy for extreme low resolution unsafe action recognition in construction projects},
+journal = {Advanced Engineering Informatics},
+volume = {59},
+pages = {102294},
+year = {2024},
+issn = {1474-0346},
+doi = {https://doi.org/10.1016/j.aei.2023.102294},
+url = {https://www.sciencedirect.com/science/article/pii/S1474034623004226},
+author = {Meng Yang and Chengke Wu and Yuanjun Guo and Yong He and Rui Jiang and Junjie Jiang and Zhile Yang},
+keywords = {Construction safety, Low resolution, Action recognition, Knowledge distillation},
+}
+```
 
 # Step1
 Create virtual environment
@@ -106,38 +135,6 @@ The ROC/AUC curve is shown below:
 ![image](https://github.com/S1mpleyang/ConstructionActionRecognition/blob/main/img/ROC.png)
 
 Find more detail in **"draw"** directory
-
-
-
-# Citation
-If you find our work is helpful, please leave us a star and cite our paper below.
-```
-@article{YANG2023104703,
-title = {Transformer-based deep learning model and video dataset for unsafe action identification in construction projects},
-journal = {Automation in Construction},
-volume = {146},
-pages = {104703},
-year = {2023},
-issn = {0926-5805},
-doi = {https://doi.org/10.1016/j.autcon.2022.104703},
-url = {https://www.sciencedirect.com/science/article/pii/S0926580522005738},
-author = {Meng Yang and Chengke Wu and Yuanjun Guo and Rui Jiang and Feixiang Zhou and Jianlin Zhang and Zhile Yang},
-keywords = {Action recognition, Construction safety, Transformer, Deep learning},
-}
-
-@article{YANG2024102294,
-title = {A teacher–student deep learning strategy for extreme low resolution unsafe action recognition in construction projects},
-journal = {Advanced Engineering Informatics},
-volume = {59},
-pages = {102294},
-year = {2024},
-issn = {1474-0346},
-doi = {https://doi.org/10.1016/j.aei.2023.102294},
-url = {https://www.sciencedirect.com/science/article/pii/S1474034623004226},
-author = {Meng Yang and Chengke Wu and Yuanjun Guo and Yong He and Rui Jiang and Junjie Jiang and Zhile Yang},
-keywords = {Construction safety, Low resolution, Action recognition, Knowledge distillation},
-}
-```
 
 # Acknowledgement
 This repository is based on 
