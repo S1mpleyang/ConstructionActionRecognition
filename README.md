@@ -2,9 +2,10 @@
 
 This is the official repository for paper ["Transformer-based deep learning model and video dataset for unsafe action identification in construction projects"](https://www.sciencedirect.com/science/article/pii/S0926580522005738) published in Automation in Construction (JCR Q1, IF=9.6).
 
-This work apply computer vision technology into construction industry for understanding the various actions of workers. In this work, we propose a dataset about actions of construction workers as well as a new designed model.
+Our work integrate computer vision technology into the construction industry to better understand the diverse actions performed by workers. 
+One the one hand, we present a comprehensive dataset capturing the various activities of construction workers. One the other hand, we introduce a state-of-the-art model based on transformer to specifically recognize various actions in construction site.
 
-With these codes, you can reapper the results in our paper, or you can design your own model and train/test it through our codes. 
+With the provided code, you can replicate the results detailed in our paper or develop your own models/dataset to achieve your goal.
 
 
 ## update
