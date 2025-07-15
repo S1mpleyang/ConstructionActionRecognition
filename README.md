@@ -1,6 +1,6 @@
 # ConstructionActionRecognition
 
-This is the official repository for paper ["Transformer-based deep learning model and video dataset for unsafe action identification in construction projects"](https://www.sciencedirect.com/science/article/pii/S0926580522005738) published in Automation in Construction (JCR Q1, IF=9.6).
+This is the official repository for paper ["Transformer-based deep learning model and video dataset for unsafe action identification in construction projects"](https://www.sciencedirect.com/science/article/pii/S0926580522005738) published in Automation in Construction (JCR Q1, IF=11.5).
 
 Our work integrate computer vision technology into the construction industry to better understand the diverse actions performed by workers. 
 One the one hand, we present a comprehensive dataset capturing the various activities of construction workers. One the other hand, we introduce a state-of-the-art model based on transformer to specifically recognize various actions in construction site.
@@ -10,7 +10,7 @@ With the provided code, you can replicate the results detailed in our paper or d
 
 ## update
 
-Our new work ["A teacher–student deep learning strategy for extreme low resolution unsafe action recognition in construction projects"](https://www.sciencedirect.com/science/article/abs/pii/S1474034623004226) is pubilshed in Advanced Engineering Informatics (JCR Q1, IF=8.0). We focus on extramely low resolution (28 pixels * 28 pixels) action recognition task in construction site using extramely low-resolution CMA dataset. You can gain more details in the publish paper.
+Our new work ["A teacher–student deep learning strategy for extreme low resolution unsafe action recognition in construction projects"](https://www.sciencedirect.com/science/article/abs/pii/S1474034623004226) is pubilshed in Advanced Engineering Informatics (JCR Q1, IF=9.9). We focus on extramely low resolution (28 pixels * 28 pixels) action recognition task in construction site using extramely low-resolution CMA dataset. You can gain more details in the publish paper.
 
 ## citation 
 If you find our work is helpful, please leave us a star <img src=https://github.com/S1mpleyang/ConstructionActionRecognition/blob/main/img/star.png width=15 height=15> and cite our papers below.
