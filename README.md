@@ -160,6 +160,9 @@ This repository is based on
 
 Thanks for these researchers!
 
+# Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=S1mpleyang/ConstructionActionRecognition&type=Date)](https://star-history.com/#S1mpleyang/ConstructionActionRecognition&Date)
+
 # Contact
 Any question please contact yangmengjlu@gmail.com.
 
