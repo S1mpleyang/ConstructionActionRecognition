@@ -162,3 +162,7 @@ Thanks for these researchers!
 # Contact
 Any question please contact yangmengjlu@gmail.com.
 
+# License
+
+This repository is provided for research and educational perpose. Any use of the code, data, models, or derivative works from this repository must include clear attribution to the original repository and author(s). Citation of this repository is mandatory in any related project, publication, product, or redistributed work. By using this repository, you agree to preserve all copyright and attribution notices.
+
