@@ -10,6 +10,8 @@ With the provided code, you can replicate the results detailed in our paper or d
 
 ## update
 
+We have open-source our dataset now! you can access it with baidu netdisk!
+
 Our new work ["A teacher–student deep learning strategy for extreme low resolution unsafe action recognition in construction projects"](https://www.sciencedirect.com/science/article/abs/pii/S1474034623004226) is pubilshed in Advanced Engineering Informatics (JCR Q1, IF=9.9, 中科院一区). We focus on extramely low resolution (28 pixels * 28 pixels) action recognition task in construction site using extramely low-resolution CMA dataset. You can gain more details in the publish paper.
 
 ## citation 
